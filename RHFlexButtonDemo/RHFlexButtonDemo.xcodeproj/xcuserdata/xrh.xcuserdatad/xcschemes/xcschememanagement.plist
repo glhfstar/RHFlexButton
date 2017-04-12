@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>LYFlexButtonDemo.xcscheme</key>
+		<key>RHFlexButtonDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>29F65B161E98992800C68C99</key>
+		<key>29BD28881E9E146D00BA062D</key>
 		<dict>
 			<key>primary</key>
 			<true/>

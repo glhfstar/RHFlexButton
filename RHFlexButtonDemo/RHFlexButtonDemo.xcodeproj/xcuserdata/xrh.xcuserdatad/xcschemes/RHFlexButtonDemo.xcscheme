@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "29F65B161E98992800C68C99"
-               BuildableName = "LYFlexButtonDemo.app"
-               BlueprintName = "LYFlexButtonDemo"
-               ReferencedContainer = "container:LYFlexButtonDemo.xcodeproj">
+               BlueprintIdentifier = "29BD28881E9E146D00BA062D"
+               BuildableName = "RHFlexButtonDemo.app"
+               BlueprintName = "RHFlexButtonDemo"
+               ReferencedContainer = "container:RHFlexButtonDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "29F65B161E98992800C68C99"
-            BuildableName = "LYFlexButtonDemo.app"
-            BlueprintName = "LYFlexButtonDemo"
-            ReferencedContainer = "container:LYFlexButtonDemo.xcodeproj">
+            BlueprintIdentifier = "29BD28881E9E146D00BA062D"
+            BuildableName = "RHFlexButtonDemo.app"
+            BlueprintName = "RHFlexButtonDemo"
+            ReferencedContainer = "container:RHFlexButtonDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "29F65B161E98992800C68C99"
-            BuildableName = "LYFlexButtonDemo.app"
-            BlueprintName = "LYFlexButtonDemo"
-            ReferencedContainer = "container:LYFlexButtonDemo.xcodeproj">
+            BlueprintIdentifier = "29BD28881E9E146D00BA062D"
+            BuildableName = "RHFlexButtonDemo.app"
+            BlueprintName = "RHFlexButtonDemo"
+            ReferencedContainer = "container:RHFlexButtonDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "29F65B161E98992800C68C99"
-            BuildableName = "LYFlexButtonDemo.app"
-            BlueprintName = "LYFlexButtonDemo"
-            ReferencedContainer = "container:LYFlexButtonDemo.xcodeproj">
+            BlueprintIdentifier = "29BD28881E9E146D00BA062D"
+            BuildableName = "RHFlexButtonDemo.app"
+            BlueprintName = "RHFlexButtonDemo"
+            ReferencedContainer = "container:RHFlexButtonDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

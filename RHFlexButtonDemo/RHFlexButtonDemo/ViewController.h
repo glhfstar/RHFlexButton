@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  LYFlexButtonDemo
+//  RHFlexButtonDemo
 //
-//  Created by xieruihua on 17/4/8.
+//  Created by xieruihua on 17/4/12.
 //  Copyright © 2017年 xieruihua. All rights reserved.
 //
 

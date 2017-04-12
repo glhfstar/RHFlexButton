@@ -1,22 +1,20 @@
 //
-//  LYFlexButton.m
-//  LYFlexButtonDemo
+//  RHFlexButton.m
+//  RHFlexButtonDemo
 //
-//  Created by xieruihua on 17/4/8.
+//  Created by xieruihua on 17/4/12.
 //  Copyright © 2017年 xieruihua. All rights reserved.
 //
 
-#import "LYFlexButton.h"
+#import "RHFlexButton.h"
 
-@interface LYFlexButton ()
-
+@interface RHFlexButton ()
 @property (nonatomic, strong) NSMutableDictionary *faceColors;
 @property (nonatomic, strong) NSMutableDictionary *sideColors;
 @property (nonatomic, strong) NSMutableDictionary *borderColors;
-
 @end
 
-@implementation LYFlexButton
+@implementation RHFlexButton
 
 - (void)qbfb_init
 {
@@ -80,8 +78,7 @@
     self.imageView.frame = imageViewFrame;
 }
 
-
-#pragma mark - Accessors
+#pragma mark - getters ans setters
 
 - (void)setFrame:(CGRect)frame
 {
@@ -151,7 +148,7 @@
 }
 
 
-#pragma mark - Configuring the Button Colors
+#pragma mark - Configuring the Button
 
 - (void)setFaceColor:(UIColor *)surfaceColor forState:(UIControlState)state
 {
